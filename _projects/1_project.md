@@ -1,24 +1,16 @@
 ---
 layout: page
 title: project 1
-description: a project with a background image
+description: integrated analyze data from nanopore to classify prostate cancer and normal
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
+SV(Structure Variation),which refers to changes in the structure of an organism's genome,can have significant effects on an organism's phenotype and susceptibility to diseases.
+CNV(Copy Number Variation),refering to the presence of differences in the number of copies of specific regions of the genome between individuals. These variations can contribute to genetic diversity and influencing phenotypic traits and disease susceptibility. 
+Methylation is a chemical process where a methyl group is added to DNA molecules, typically at cytosine bases, influencing gene expression and genomic stability. This epigenetic modification plays a crucial role in regulating gene activity, development, and disease susceptibility.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
